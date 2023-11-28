@@ -13,6 +13,6 @@ The program was created as part of a school project. This project was completed 
 ## Known Issues
 n/a
 
-## Feedback Recieved
+## Feedback Received
 
 * dc: The code could be simplified by ignoring empty cells in the pyramid
